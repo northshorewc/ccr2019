@@ -289,15 +289,15 @@ For monitoring location SSS-01:
 
 | Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                  |
 |:----------|:----------------------------------:|:----------------------------------------:|:-----------------------------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5      |              60 ug/L               |                 60 ug/L                  |    11 ug/L </br> (8 - 12)     | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
-| TTHM      |                 0                  |                 80 ug/L                  | 22.5 ug/L </br> (13.5 - 26.2) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| HAA5      |              60 ug/L               |                 60 ug/L                  |    9 ug/L </br> (7 - 11)      | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM      |                 0                  |                 80 ug/L                  | 17.2 ug/L </br> (12.9 - 16.7) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 For monitoring location SSS-02:
 
 | Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                  |
 |:----------|:----------------------------------:|:----------------------------------------:|:-----------------------------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5      |              60 ug/L               |                 60 ug/L                  |    10 ug/L </br> (8 - 10)     | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
-| TTHM      |                 0                  |                 80 ug/L                  | 22.4 ug/L </br> (12.2 - 23.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| HAA5      |              60 ug/L               |                 60 ug/L                  |    9 ug/L </br> (8 - 11)      | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM      |                 0                  |                 80 ug/L                  | 16.9 ug/L </br> (13.3 - 16.7) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 *Third Unregulated Contaminant Monitoring Rule*
 
