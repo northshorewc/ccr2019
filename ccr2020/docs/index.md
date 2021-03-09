@@ -2,10 +2,10 @@
 Author: Eric Kiefer
 Date: 3/5/2021
 ---
-
+<!-- 
 <a href="http://www.northshorewater.org/CCR2020.pdf" download>Click here to download PDF version</a>
 
-* * *
+* * * -->
 
 ![nswc-logo](img/nswc-logo-long.png)
 
@@ -111,29 +111,29 @@ The NSWC and its member utilities work together to ensure the water it delivers 
 
 *Inorganic*
 
-| Substance           | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                                                                                                                 |
-|:--------------------|:----------------------------------------:|:----------------------------------------------:|:-----------------------------:|:-------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------|
-| Arsenic             |                    NA                    |                     10 ug/L                    |   0.6 ug/L </br> (0.5 - 0.7)  | <span style="font-size:150%">&#9786;</span> | Erosion of natural deposits; Runoff from orchards; Runoff from glass and electronics production wastes                              |
-| Barium              |                  2 mg/L                  |                     2 mg/L                     |          0.020 mg/L           | <span style="font-size:150%">&#9786;</span> | Discharge of drilling wastes; discharge from metal refineries; erosion of natural deposits                                               |
-| [^1] Fluoride       |                  4 mg/L                  |                     4 mg/L                     | 0.73 mg/L </br> (0.65 - 0.78) | <span style="font-size:150%">&#9786;</span> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories                |
-| Nickel              |                 100 ug/L                 |                    100 ug/L                    |           0.54 ug/L           | <span style="font-size:150%">&#9786;</span> | Nickel occurs naturally in soils, groundwater and surface waters and is often used in electroplating, stainless steel and alloy products |
-| Nitrate (NO3-N)     |                 10 mg/L                  |                    10 mg/L                     |           0.36 mg/L           | <span style="font-size:150%">&#9786;</span> | Runoff from fertilizer use; Leaching from septic tanks, sewage; erosion of natural deposits                                              |
-| Sodium              |                    NA                    |                       NA                       |           9.6 mg/L            | <span style="font-size:150%">&#9786;</span> | NA                                                                                                                                       |
+| Substance       | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                                                                                                                 |
+|:----------------|:----------------------------------------:|:----------------------------------------------:|:-----------------------------:|:-------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------|
+| Arsenic         |                    NA                    |                    10 ug/L                     |  0.6 ug/L </br> (0.5 - 0.7)   | <span style="font-size:150%">&#9786;</span> | Erosion of natural deposits; Runoff from orchards; Runoff from glass and electronics production wastes                                   |
+| Barium          |                  2 mg/L                  |                     2 mg/L                     |          0.020 mg/L           | <span style="font-size:150%">&#9786;</span> | Discharge of drilling wastes; discharge from metal refineries; erosion of natural deposits                                               |
+| [^1] Fluoride   |                  4 mg/L                  |                     4 mg/L                     | 0.73 mg/L </br> (0.65 - 0.78) | <span style="font-size:150%">&#9786;</span> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories                |
+| Nickel          |                 100 ug/L                 |                    100 ug/L                    |           0.54 ug/L           | <span style="font-size:150%">&#9786;</span> | Nickel occurs naturally in soils, groundwater and surface waters and is often used in electroplating, stainless steel and alloy products |
+| Nitrate (NO3-N) |                 10 mg/L                  |                    10 mg/L                     |           0.36 mg/L           | <span style="font-size:150%">&#9786;</span> | Runoff from fertilizer use; Leaching from septic tanks, sewage; erosion of natural deposits                                              |
+| Sodium          |                    NA                    |                       NA                       |           9.6 mg/L            | <span style="font-size:150%">&#9786;</span> | NA                                                                                                                                       |
 
 *Synthetic Organic Contaminants including Pesticides and Herbicides*
 
-| Substance                     | MCLG | MCL | Level Found |                   Status                    | Sources of Contamination                  |
-|:------------------------------|:----:|:---:|:-----------:|:-------------------------------------------:|:------------------------------------------|
-| Atrazine                      |  3   | 3   |  0.024 ug/L | <span style="font-size:150%">&#9786;</span> | Runoff from herbicide used on row crops.  |
+| Substance | MCLG | MCL | Level Found |                   Status                    | Sources of Contamination                 |
+|:----------|:----:|:---:|:-----------:|:-------------------------------------------:|:-----------------------------------------|
+| Atrazine  |  3   |  3  | 0.024 ug/L  | <span style="font-size:150%">&#9786;</span> | Runoff from herbicide used on row crops. |
 
 *Unregulated Contaminants*
 
 Unregulated contaminants are those for which EPA has not established drinking water standards. The purpose of unregulated contaminant monitoring is to assist EPA in determining the occurrence of unregulated contaminants in drinking water and whether future regulation is warranted. EPA required us to participate in this monitoring.
 
-| Substance            | MCLG | MCL | Level Found                       | Status                                      |
-|:---------------------|:----:|:---:|:---------------------------------:|:--------------------------------------------|
-| Sulfate              |  NA  | NA  |          25.0 mg/L                | <span style="font-size:150%">&#9786;</span> |
-| Metolachlor (DUAL)   |  NA  | NA  |  0.016 ug/L </br> (0.012 - 0.020) | <span style="font-size:150%">&#9786;</span> |
+| Substance          | MCLG | MCL |           Level Found            | Status                                      |
+|:-------------------|:----:|:---:|:--------------------------------:|:--------------------------------------------|
+| Sulfate            |  NA  | NA  |            25.0 mg/L             | <span style="font-size:150%">&#9786;</span> |
+| Metolachlor (DUAL) |  NA  | NA  | 0.016 ug/L </br> (0.012 - 0.020) | <span style="font-size:150%">&#9786;</span> |
 
 
 * * *
@@ -150,14 +150,14 @@ For monitoring location SSS-9:
 
 | Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found |                   Status                    | Sources of Contamination                  |
 |:----------|:----------------------------------:|:----------------------------------------:|:-----------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5      |              60 ug/L               |                 60 ug/L                  |   9.3 ug/L  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| HAA5      |              60 ug/L               |                 60 ug/L                  |  9.3 ug/L   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 | TTHM      |                 0                  |                 80 ug/L                  |  13.0 ug/L  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 For monitoring location SSS-10:
 
 | Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found |                   Status                    | Sources of Contamination                  |
 |:----------|:----------------------------------:|:----------------------------------------:|:-----------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5      |              60 ug/L               |                 60 ug/L                  |   8.6 ug/L  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| HAA5      |              60 ug/L               |                 60 ug/L                  |  8.6 ug/L   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 | TTHM      |                 0                  |                 80 ug/L                  |  11.9 ug/L  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 *Lead and Copper*
@@ -166,10 +166,10 @@ Please note that lead and copper do not have a maximum contaminant level. Instea
 
 Please note that "level found" in this section is the 90th percentile value from the latest monitoring event. **Of the 30 samples collected, 3 of the lead samples exceeded the action level of 15 ppb.** Of the 30 samples collected, 0 of the copper samples exceeded the action level 1.3 ppm.
 
-| Substance     |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
-|:--------------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
-| Copper        | 1.3 mg/L | 1.3 mg/L | 0.082 mg/L </br> <sub>(0.002 mg/L to 0.280 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
-| Lead          |    0     | 15 ug/L  |       12.0 ug/L </br> <sub> (0.05 to 23 ug/L)</sub>       | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
+| Substance |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
+|:----------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
+| Copper    | 1.3 mg/L | 1.3 mg/L | 0.082 mg/L </br> <sub>(0.002 mg/L to 0.280 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
+| Lead      |    0     | 15 ug/L  |     12.0 ug/L </br> <sub> (0.05 to 23 ug/L)</sub>      | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
 
 To reduce the amount of lead that can transfer from lead-bearing fixtures and pipes to the water, the NSWC feeds a corrosion inhibitor that contains phosphate. The addition of phosphate has been determined by the EPA and WNDR to be the best available treatment process for controlling lead in the distribution system.
 
@@ -192,17 +192,17 @@ Please note that "level found" in this section is the LRAA. This value can inclu
 
 For monitoring location SSS-03:
 
-| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                  |
-|:----------|:----------------------------------:|:----------------------------------------:|:-----------------------------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5      |              60 ug/L               |                 60 ug/L                  |  9.1 ug/L </br> (7.1 - 10.0)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
-| TTHM      |                 0                  |                 80 ug/L                  | 15.9 ug/L </br> (8.8 - 20.4)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |         Level Found          |                   Status                    | Sources of Contamination                  |
+|:----------|:----------------------------------:|:----------------------------------------:|:----------------------------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5      |              60 ug/L               |                 60 ug/L                  | 9.1 ug/L </br> (7.1 - 10.0)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM      |                 0                  |                 80 ug/L                  | 15.9 ug/L </br> (8.8 - 20.4) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 For monitoring location SSS-16:
 
-| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                  |
-|:----------|:----------------------------------:|:----------------------------------------:|:-----------------------------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5      |              60 ug/L               |                 60 ug/L                  | 10.0 ug/L </br> (6.9 - 10.4)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
-| TTHM      |                 0                  |                 80 ug/L                  | 16.2 ug/L </br> (7.9 - 21.2)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |         Level Found          |                   Status                    | Sources of Contamination                  |
+|:----------|:----------------------------------:|:----------------------------------------:|:----------------------------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5      |              60 ug/L               |                 60 ug/L                  | 10.0 ug/L </br> (6.9 - 10.4) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM      |                 0                  |                 80 ug/L                  | 16.2 ug/L </br> (7.9 - 21.2) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 *Lead and Copper*
 
@@ -210,10 +210,10 @@ Please note that lead and copper do not have a maximum contaminant level. Instea
 
 Please note that "level found" in this section is the 90th percentile value from the latest monitoring event. **Of the 33 samples collected, 0 of the lead samples exceeded the action level of 15 ppb.** Of the 33 samples collected, 0 of the copper samples exceeded the action level 1.3 ppm.
 
-| Substance     |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
-|:--------------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
-| Copper        | 1.3 mg/L | 1.3 mg/L | 0.029 mg/L </br> <sub>(0.001 mg/L to 0.100 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
-| Lead          |    0     | 15 ug/L  |       5.3 ug/L </br> <sub> (ND to 7.4 ug/L)</sub>       | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
+| Substance |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
+|:----------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
+| Copper    | 1.3 mg/L | 1.3 mg/L | 0.029 mg/L </br> <sub>(0.001 mg/L to 0.100 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
+| Lead      |    0     | 15 ug/L  |      5.3 ug/L </br> <sub> (ND to 7.4 ug/L)</sub>       | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
 
 To reduce the amount of lead that can transfer from lead-bearing fixtures and pipes to the water, the NSWC feeds a corrosion inhibitor that contains phosphate. The addition of phosphate has been determined by the EPA and WNDR to be the best available treatment process for controlling lead in the distribution system.
 
@@ -269,17 +269,17 @@ Please note that "level found" in this section is the LRAA. This value can inclu
 
 For monitoring location SSS-01:
 
-| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                  |
-|:----------|:----------------------------------:|:----------------------------------------:|:-----------------------------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5      |              60 ug/L               |                 60 ug/L                  |  8.7 ug/L </br> (6.9 - 9.7)   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
-| TTHM      |                 0                  |                 80 ug/L                  | 15.6 ug/L </br> (8.6 - 20.4)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |         Level Found          |                   Status                    | Sources of Contamination                  |
+|:----------|:----------------------------------:|:----------------------------------------:|:----------------------------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5      |              60 ug/L               |                 60 ug/L                  |  8.7 ug/L </br> (6.9 - 9.7)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM      |                 0                  |                 80 ug/L                  | 15.6 ug/L </br> (8.6 - 20.4) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 For monitoring location SSS-02:
 
-| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                  |
-|:----------|:----------------------------------:|:----------------------------------------:|:-----------------------------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5      |              60 ug/L               |                 60 ug/L                  |  8.7 ug/L </br> (6.6 - 9.4)   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
-| TTHM      |                 0                  |                 80 ug/L                  | 15.9 ug/L </br> (8.6 - 20.4)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |         Level Found          |                   Status                    | Sources of Contamination                  |
+|:----------|:----------------------------------:|:----------------------------------------:|:----------------------------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5      |              60 ug/L               |                 60 ug/L                  |  8.7 ug/L </br> (6.6 - 9.4)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM      |                 0                  |                 80 ug/L                  | 15.9 ug/L </br> (8.6 - 20.4) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 *Lead and Copper*
 
@@ -287,10 +287,10 @@ Please note that lead and copper do not have a maximum contaminant level. Instea
 
 Please note that "level found" in this section is the 90th percentile value from the latest monitoring event. **Of the 33 samples collected, 1 of the lead samples exceeded the action level of 15 ppb.** Of the 33 samples collected, 0 of the copper samples exceeded the action level 1.3 ppm.
 
-| Substance     |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
-|:--------------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
-| Copper        | 1.3 mg/L | 1.3 mg/L | 0.045 mg/L </br> <sub>(0.001 mg/L to 0.160 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
-| Lead          |    0     | 15 ug/L  |       7.3 ug/L </br> <sub> (0.04 to 16.0 ug/L)</sub>       | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
+| Substance |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
+|:----------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
+| Copper    | 1.3 mg/L | 1.3 mg/L | 0.045 mg/L </br> <sub>(0.001 mg/L to 0.160 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
+| Lead      |    0     | 15 ug/L  |     7.3 ug/L </br> <sub> (0.04 to 16.0 ug/L)</sub>     | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
 
 To reduce the amount of lead that can transfer from lead-bearing fixtures and pipes to the water, the NSWC feeds a corrosion inhibitor that contains phosphate. The addition of phosphate has been determined by the EPA and WNDR to be the best available treatment process for controlling lead in the distribution system.
 
@@ -417,10 +417,10 @@ Please note that officers from the member communities rotate positions annually 
 
 ### Glendale
 
-| Office       | Office Holder   | Email                                                           | Phone          |
-|:-------------|:----------------|:----------------------------------------------------------------|:---------------|
-| Secretary    | Charlie Imig    | [c.imig@glendale-wi.gov](mailto:c.imig@glendale-wi.gov)         | (414) 228-1710 |
-| Alternate    | Rachel Safstrom | [R.Safstrom@glendale-wi.gov](mailto:R.Safstrom@glendale-wi.gov) | (414) 228-1705 |
+| Office    | Office Holder   | Email                                                           | Phone          |
+|:----------|:----------------|:----------------------------------------------------------------|:---------------|
+| Secretary | Charlie Imig    | [c.imig@glendale-wi.gov](mailto:c.imig@glendale-wi.gov)         | (414) 228-1710 |
+| Alternate | Rachel Safstrom | [R.Safstrom@glendale-wi.gov](mailto:R.Safstrom@glendale-wi.gov) | (414) 228-1705 |
 
 <!-- | Fiscal Agent | Shawn Lanser    | [S.Lanser@glendale-wi.gov](mailto:S.Lanser@glendale-wi.gov)     | (414) 228-1717 | -->
 
