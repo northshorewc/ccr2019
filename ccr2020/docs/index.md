@@ -32,7 +32,7 @@ Each water utility is responsible for connecting customers to the water system, 
 
 | [Fox Point Water Utility](http://www.villageoffoxpoint.com/) | [Glendale Water Utility](http://www.glendale-wi.org) | [Whitefish Bay Water Utility](http://www.wfbvillage.org) |
 |:------------------------------------------------------------:|:----------------------------------------------------:|:--------------------------------------------------------:|
-|        ![Fox Point Logo](img/fox-point-logo-150.png)         |     ![Glendale Logo](img/glendale-logo-150.png)      |     ![Whitefish Bay Logo](img/wfb-logo-150-250.png)      |
+|        ![Fox Point Logo](img/FPTLogoSmall-150.png)         |     ![Glendale Logo](img/glendale-logo-150.png)      |     ![Whitefish Bay Logo](img/wfb-logo-150-250.png)      |
 |                        (414) 351-8900                        |                    (414) 228-1719                    |                      (414) 962-6690                      |
 
 * * *
@@ -228,7 +228,7 @@ Unregulated contaminants are those for which EPA has not established drinking wa
 
 * * *
 
-![Fox Point Logo](img/fox-point-logo-150.png)
+![Fox Point Logo](img/FPTLogoSmall-150.png)
 
 ### Monitoring Results Pertaining to the Village of Fox Point (PWS# 24105840)
 
