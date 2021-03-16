@@ -1,11 +1,11 @@
 ---
 Author: Eric Kiefer
-Date: 3/9/2021
+Date: 3/16/2021
 ---
-<!--
+
 <a href="http://www.northshorewater.org/CCR2020.pdf" download>Click here to download PDF version</a>
 
-* * * -->
+* * *
 
 ![nswc-logo](img/nswc-logo-long.png)
 
@@ -32,7 +32,7 @@ Each water utility is responsible for connecting customers to the water system, 
 
 | [Fox Point Water Utility](http://www.villageoffoxpoint.com/) | [Glendale Water Utility](http://www.glendale-wi.org) | [Whitefish Bay Water Utility](http://www.wfbvillage.org) |
 |:------------------------------------------------------------:|:----------------------------------------------------:|:--------------------------------------------------------:|
-|        ![Fox Point Logo](img/FPTLogoSmall-150.png)         |     ![Glendale Logo](img/glendale-logo-150.png)      |     ![Whitefish Bay Logo](img/wfb-logo-150-250.png)      |
+|         ![Fox Point Logo](img/FPTLogoSmall-150.png)          |     ![Glendale Logo](img/glendale-logo-150.png)      |     ![Whitefish Bay Logo](img/wfb-logo-150-250.png)      |
 |                        (414) 351-8900                        |                    (414) 228-1719                    |                      (414) 962-6690                      |
 
 * * *
@@ -201,29 +201,29 @@ The NSWC and its member utilities work together to ensure the water it delivers 
 
 *Inorganic*
 
-| Substance       | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                                                                                                                 |
-|:----------------|:----------------------------------------:|:----------------------------------------------:|:-----------------------------:|:-------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------|
-| Arsenic  </br> <sub>[2020]</sub>       |                    NA                    |                    10 ug/L                     |  0.6 ug/L </br> (0.5 - 0.7)   | <span style="font-size:150%">&#9786;</span> | Erosion of natural deposits; Runoff from orchards; Runoff from glass and electronics production wastes                                   |
-| Barium   </br> <sub>[2020]</sub>           |                  2 mg/L                  |                     2 mg/L                     |          0.020 mg/L           | <span style="font-size:150%">&#9786;</span> | Discharge of drilling wastes; discharge from metal refineries; erosion of natural deposits                                               |
-| [^1] Fluoride    </br> <sub>[2020]</sub>   |                  4 mg/L                  |                     4 mg/L                     | 0.73 mg/L </br> (0.65 - 0.78) | <span style="font-size:150%">&#9786;</span> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories                |
-| Nickel   </br> <sub>[2020]</sub>           |                 100 ug/L                 |                    100 ug/L                    |           0.54 ug/L           | <span style="font-size:150%">&#9786;</span> | Nickel occurs naturally in soils, groundwater and surface waters and is often used in electroplating, stainless steel and alloy products |
-| Nitrate (NO3-N)   </br> <sub>[2020]</sub>  |                 10 mg/L                  |                    10 mg/L                     |           0.36 mg/L           | <span style="font-size:150%">&#9786;</span> | Runoff from fertilizer use; Leaching from septic tanks, sewage; erosion of natural deposits                                              |
-| Sodium   </br> <sub>[2020]</sub>           |                    NA                    |                       NA                       |           9.6 mg/L            | <span style="font-size:150%">&#9786;</span> | NA                                                                                                                                       |
+| Substance                                 | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                                                                                                                 |
+|:------------------------------------------|:----------------------------------------:|:----------------------------------------------:|:-----------------------------:|:-------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------|
+| Arsenic  </br> <sub>[2020]</sub>          |                    NA                    |                    10 ug/L                     |  0.6 ug/L </br> (0.5 - 0.7)   | <span style="font-size:150%">&#9786;</span> | Erosion of natural deposits; Runoff from orchards; Runoff from glass and electronics production wastes                                   |
+| Barium   </br> <sub>[2020]</sub>          |                  2 mg/L                  |                     2 mg/L                     |          0.020 mg/L           | <span style="font-size:150%">&#9786;</span> | Discharge of drilling wastes; discharge from metal refineries; erosion of natural deposits                                               |
+| [^1] Fluoride    </br> <sub>[2020]</sub>  |                  4 mg/L                  |                     4 mg/L                     | 0.73 mg/L </br> (0.65 - 0.78) | <span style="font-size:150%">&#9786;</span> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories                |
+| Nickel   </br> <sub>[2020]</sub>          |                 100 ug/L                 |                    100 ug/L                    |           0.54 ug/L           | <span style="font-size:150%">&#9786;</span> | Nickel occurs naturally in soils, groundwater and surface waters and is often used in electroplating, stainless steel and alloy products |
+| Nitrate (NO3-N)   </br> <sub>[2020]</sub> |                 10 mg/L                  |                    10 mg/L                     |           0.36 mg/L           | <span style="font-size:150%">&#9786;</span> | Runoff from fertilizer use; Leaching from septic tanks, sewage; erosion of natural deposits                                              |
+| Sodium   </br> <sub>[2020]</sub>          |                    NA                    |                       NA                       |           9.6 mg/L            | <span style="font-size:150%">&#9786;</span> | NA                                                                                                                                       |
 
 *Synthetic Organic Contaminants including Pesticides and Herbicides*
 
-| Substance | MCLG | MCL | Level Found |                   Status                    | Sources of Contamination                 |
-|:----------|:----:|:---:|:-----------:|:-------------------------------------------:|:-----------------------------------------|
-| Atrazine   </br> <sub>[2020]</sub>   |  3   |  3  | 0.024 ug/L  | <span style="font-size:150%">&#9786;</span> | Runoff from herbicide used on row crops. |
+| Substance                          | MCLG | MCL | Level Found |                   Status                    | Sources of Contamination                 |
+|:-----------------------------------|:----:|:---:|:-----------:|:-------------------------------------------:|:-----------------------------------------|
+| Atrazine   </br> <sub>[2020]</sub> |  3   |  3  | 0.024 ug/L  | <span style="font-size:150%">&#9786;</span> | Runoff from herbicide used on row crops. |
 
 *Unregulated Contaminants*
 
 Unregulated contaminants are those for which EPA has not established drinking water standards. The purpose of unregulated contaminant monitoring is to assist EPA in determining the occurrence of unregulated contaminants in drinking water and whether future regulation is warranted. EPA required us to participate in this monitoring.
 
-| Substance          | MCLG | MCL |           Level Found            | Status                                      |
-|:-------------------|:----:|:---:|:--------------------------------:|:--------------------------------------------|
-| Sulfate   </br> <sub>[2020]</sub>             |  NA  | NA  |            25.0 mg/L             | <span style="font-size:150%">&#9786;</span> |
-| Metolachlor (DUAL)   </br> <sub>[2020]</sub>   |  NA  | NA  | 0.016 ug/L </br> (0.012 - 0.020) | <span style="font-size:150%">&#9786;</span> |
+| Substance                                    | MCLG | MCL |           Level Found            | Status                                      |
+|:---------------------------------------------|:----:|:---:|:--------------------------------:|:--------------------------------------------|
+| Sulfate   </br> <sub>[2020]</sub>            |  NA  | NA  |            25.0 mg/L             | <span style="font-size:150%">&#9786;</span> |
+| Metolachlor (DUAL)   </br> <sub>[2020]</sub> |  NA  | NA  | 0.016 ug/L </br> (0.012 - 0.020) | <span style="font-size:150%">&#9786;</span> |
 
 
 * * *
@@ -238,17 +238,17 @@ The following table show the contaminants that were detected by the Village of F
 
 For monitoring location SSS-9:
 
-| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found |                   Status                    | Sources of Contamination                  |
-|:----------|:----------------------------------:|:----------------------------------------:|:-----------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5    </br> <sub>[2020]</sub>      |              60 ug/L               |                 60 ug/L                  |  9.3 ug/L   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
-| TTHM    </br> <sub>[2020]</sub>      |                 0                  |                 80 ug/L                  |  13.0 ug/L  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Substance                       | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found |                   Status                    | Sources of Contamination                  |
+|:--------------------------------|:----------------------------------:|:----------------------------------------:|:-----------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5    </br> <sub>[2020]</sub> |              60 ug/L               |                 60 ug/L                  |  9.3 ug/L   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM    </br> <sub>[2020]</sub> |                 0                  |                 80 ug/L                  |  13.0 ug/L  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 For monitoring location SSS-10:
 
-| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found |                   Status                    | Sources of Contamination                  |
-|:----------|:----------------------------------:|:----------------------------------------:|:-----------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5    </br> <sub>[2020]</sub>      |              60 ug/L               |                 60 ug/L                  |  8.6 ug/L   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
-| TTHM    </br> <sub>[2020]</sub>      |                 0                  |                 80 ug/L                  |  11.9 ug/L  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Substance                       | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found |                   Status                    | Sources of Contamination                  |
+|:--------------------------------|:----------------------------------:|:----------------------------------------:|:-----------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5    </br> <sub>[2020]</sub> |              60 ug/L               |                 60 ug/L                  |  8.6 ug/L   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM    </br> <sub>[2020]</sub> |                 0                  |                 80 ug/L                  |  11.9 ug/L  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 *Lead and Copper*
 
@@ -256,10 +256,10 @@ Please note that lead and copper do not have a maximum contaminant level. Instea
 
 Please note that "level found" in this section is the 90th percentile value from the latest monitoring event. **Of the 30 samples collected in 2020, 3 of the lead samples exceeded the action level of 15 ppb** and 0 of the copper samples exceeded the action level 1.3 ppm.
 
-| Substance |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
-|:----------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
-| Copper    </br> <sub>[2020]</sub>    | 1.3 mg/L | 1.3 mg/L | 0.082 mg/L </br> <sub>(0.002 mg/L to 0.280 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
-| Lead    </br> <sub>[2020]</sub>      |    0     | 15 ug/L  |     12.0 ug/L </br> <sub> (0.05 to 23 ug/L)</sub>      | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
+| Substance                         |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
+|:----------------------------------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
+| Copper    </br> <sub>[2020]</sub> | 1.3 mg/L | 1.3 mg/L | 0.082 mg/L </br> <sub>(0.002 mg/L to 0.280 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
+| Lead    </br> <sub>[2020]</sub>   |    0     | 15 ug/L  |     12.0 ug/L </br> <sub> (0.05 to 23 ug/L)</sub>      | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
 
 To reduce the amount of lead that can transfer from lead-bearing fixtures and pipes to the water, the NSWC feeds a corrosion inhibitor that contains phosphate. The addition of phosphate has been determined by the EPA and WNDR to be one of the best available treatment processes for controlling lead in the distribution system.
 
@@ -282,17 +282,17 @@ Please note that "level found" in this section is the LRAA. This value can inclu
 
 For monitoring location SSS-03:
 
-| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |         Level Found          |                   Status                    | Sources of Contamination                  |
-|:----------|:----------------------------------:|:----------------------------------------:|:----------------------------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5   </br> <sub>[2020]</sub>       |              60 ug/L               |                 60 ug/L                  | 9.1 ug/L </br> (7.1 - 10.0)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
-| TTHM   </br> <sub>[2020]</sub>       |                 0                  |                 80 ug/L                  | 15.9 ug/L </br> (8.8 - 20.4) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Substance                      | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |         Level Found          |                   Status                    | Sources of Contamination                  |
+|:-------------------------------|:----------------------------------:|:----------------------------------------:|:----------------------------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5   </br> <sub>[2020]</sub> |              60 ug/L               |                 60 ug/L                  | 9.1 ug/L </br> (7.1 - 10.0)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM   </br> <sub>[2020]</sub> |                 0                  |                 80 ug/L                  | 16.5 ug/L </br> (8.8 - 22.6) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 For monitoring location SSS-16:
 
-| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |         Level Found          |                   Status                    | Sources of Contamination                  |
-|:----------|:----------------------------------:|:----------------------------------------:|:----------------------------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5   </br> <sub>[2020]</sub>       |              60 ug/L               |                 60 ug/L                  | 10.0 ug/L </br> (6.9 - 10.4) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
-| TTHM    </br> <sub>[2020]</sub>      |                 0                  |                 80 ug/L                  | 16.2 ug/L </br> (7.9 - 21.2) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Substance                       | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |         Level Found          |                   Status                    | Sources of Contamination                  |
+|:--------------------------------|:----------------------------------:|:----------------------------------------:|:----------------------------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5   </br> <sub>[2020]</sub>  |              60 ug/L               |                 60 ug/L                  | 10.0 ug/L </br> (6.9 - 10.4) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM    </br> <sub>[2020]</sub> |                 0                  |                 80 ug/L                  | 16.2 ug/L </br> (7.9 - 21.2) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 *Lead and Copper*
 
@@ -300,10 +300,10 @@ Please note that lead and copper do not have a maximum contaminant level. Instea
 
 Please note that "level found" in this section is the 90th percentile value from the latest monitoring event. **Of the 33 samples collected in 2020, 0 of the lead samples exceeded the action level of 15 ppb** and 0 of copper samples exceeded the action level 1.3 ppm.
 
-| Substance |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
-|:----------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
-| Copper   </br> <sub>[2020]</sub>     | 1.3 mg/L | 1.3 mg/L | 0.029 mg/L </br> <sub>(0.001 mg/L to 0.100 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
-| Lead    </br> <sub>[2020]</sub>      |    0     | 15 ug/L  |      5.3 ug/L </br> <sub> (ND to 7.4 ug/L)</sub>       | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
+| Substance                        |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
+|:---------------------------------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
+| Copper   </br> <sub>[2020]</sub> | 1.3 mg/L | 1.3 mg/L | 0.029 mg/L </br> <sub>(0.001 mg/L to 0.100 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
+| Lead    </br> <sub>[2020]</sub>  |    0     | 15 ug/L  |      5.3 ug/L </br> <sub> (ND to 7.4 ug/L)</sub>       | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
 
 To reduce the amount of lead that can transfer from lead-bearing fixtures and pipes to the water, the NSWC feeds a corrosion inhibitor that contains phosphate. The addition of phosphate has been determined by the EPA and WNDR to be one of the best available treatment processes for controlling lead in the distribution system.
 
@@ -313,25 +313,25 @@ THIS SECTION PERTAINS TO THE FOURTH ROUND of the UCMR. These compounds are not r
 
 Please note that "level found" is the average level during the calendar year.
 
-| Substance | [^4] SMCL |        Level Found         |                   Status                    | Additional Information                                                                                                                                                                                                     |
-|:----------|:---------:|:--------------------------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Manganese   </br> <sub>[2018-2019]</sub>   |  50 ug/L  | 1.0 ug/L </br> (0.5 - 2.0) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
+| Substance                                | [^4] SMCL |        Level Found         |                   Status                    | Additional Information                                                                                                                                                                                                     |
+|:-----------------------------------------|:---------:|:--------------------------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Manganese   </br> <sub>[2018-2019]</sub> |  50 ug/L  | 1.0 ug/L </br> (0.5 - 2.0) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
 
 For monitoring location SSS-03:
 
-| Substance |  MCLG   |   MCL   |          Level Found          |                   Status                    | Additional Information                     |
-|:----------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
-| HAA5 </br> <sub>[2018-2019]</sub>      | 60 ug/L | 60 ug/L |  8.9 ug/L </br> (6.2 - 14.0)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA6Br </br> <sub>[2018-2019]</sub>    |   NA    |   NA    |  7.0 ug/L </br>  (6.0 - 7.7)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA9 </br> <sub>[2018-2019]</sub>      |   NA    |   NA    | 14.4 ug/L </br> (11.2 - 18.8) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| Substance                           |  MCLG   |   MCL   |          Level Found          |                   Status                    | Additional Information                     |
+|:------------------------------------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5 </br> <sub>[2018-2019]</sub>   | 60 ug/L | 60 ug/L |  8.9 ug/L </br> (6.2 - 14.0)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br </br> <sub>[2018-2019]</sub> |   NA    |   NA    |  7.0 ug/L </br>  (6.0 - 7.7)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9 </br> <sub>[2018-2019]</sub>   |   NA    |   NA    | 14.4 ug/L </br> (11.2 - 18.8) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 
 For monitoring location SSS-16:
 
-| Substance |  MCLG   |   MCL   |          Level Found          |                   Status                    | Additional Information                     |
-|:----------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
-| HAA5 </br> <sub>[2018-2019]</sub>      | 60 ug/L | 60 ug/L |  9.4 ug/L </br> (6.7 - 13.9)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA6Br </br> <sub>[2018-2019]</sub>   |   NA    |   NA    |  8.1 ug/L </br> (6.4 - 10.6)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA9  </br> <sub>[2018-2019]</sub>     |   NA    |   NA    | 15.8 ug/L </br> (12.1 - 21.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| Substance                           |  MCLG   |   MCL   |          Level Found          |                   Status                    | Additional Information                     |
+|:------------------------------------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5 </br> <sub>[2018-2019]</sub>   | 60 ug/L | 60 ug/L |  9.4 ug/L </br> (6.7 - 13.9)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br </br> <sub>[2018-2019]</sub> |   NA    |   NA    |  8.1 ug/L </br> (6.4 - 10.6)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9  </br> <sub>[2018-2019]</sub>  |   NA    |   NA    | 15.8 ug/L </br> (12.1 - 21.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 
 The following is a complete list of compounds that were tested under this regulation:
 
@@ -341,9 +341,9 @@ The following is a complete list of compounds that were tested under this regula
 
 Unregulated contaminants are those for which EPA has not established drinking water standards. The purpose of unregulated contaminant monitoring is to assist EPA in determining the occurrence of unregulated contaminants in drinking water and whether future regulation is warranted. EPA required us to participate in this monitoring.
 
-| Substance           | MCLG | MCL | Level Found | Status                                      |
-|:--------------------|:----:|:---:|:-----------:|:--------------------------------------------|
-| Bromomethane </br> <sub>[2017]</sub>  |  NA  | NA  |  0.73 ug/L  | <span style="font-size:150%">&#9786;</span> |
+| Substance                            | MCLG | MCL | Level Found | Status                                      |
+|:-------------------------------------|:----:|:---:|:-----------:|:--------------------------------------------|
+| Bromomethane </br> <sub>[2017]</sub> |  NA  | NA  |  0.73 ug/L  | <span style="font-size:150%">&#9786;</span> |
 
 * * *
 
@@ -359,17 +359,17 @@ Please note that "level found" in this section is the LRAA. This value can inclu
 
 For monitoring location SSS-01:
 
-| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |         Level Found          |                   Status                    | Sources of Contamination                  |
-|:----------|:----------------------------------:|:----------------------------------------:|:----------------------------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5 </br> <sub>[2020]</sub>      |              60 ug/L               |                 60 ug/L                  |  8.7 ug/L </br> (6.9 - 9.7)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
-| TTHM </br> <sub>[2020]</sub>      |                 0                  |                 80 ug/L                  | 15.6 ug/L </br> (8.6 - 20.4) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Substance                    | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |         Level Found          |                   Status                    | Sources of Contamination                  |
+|:-----------------------------|:----------------------------------:|:----------------------------------------:|:----------------------------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5 </br> <sub>[2020]</sub> |              60 ug/L               |                 60 ug/L                  |  8.7 ug/L </br> (6.9 - 9.7)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM </br> <sub>[2020]</sub> |                 0                  |                 80 ug/L                  | 15.6 ug/L </br> (8.6 - 20.4) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 For monitoring location SSS-02:
 
-| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |         Level Found          |                   Status                    | Sources of Contamination                  |
-|:----------|:----------------------------------:|:----------------------------------------:|:----------------------------:|:-------------------------------------------:|:------------------------------------------|
-| HAA5 </br> <sub>[2020]</sub>      |              60 ug/L               |                 60 ug/L                  |  8.7 ug/L </br> (6.6 - 9.4)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
-| TTHM </br> <sub>[2020]</sub>      |                 0                  |                 80 ug/L                  | 15.9 ug/L </br> (8.6 - 20.4) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Substance                    | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |         Level Found          |                   Status                    | Sources of Contamination                  |
+|:-----------------------------|:----------------------------------:|:----------------------------------------:|:----------------------------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5 </br> <sub>[2020]</sub> |              60 ug/L               |                 60 ug/L                  |  8.7 ug/L </br> (6.6 - 9.4)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM </br> <sub>[2020]</sub> |                 0                  |                 80 ug/L                  | 15.9 ug/L </br> (8.6 - 20.4) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 *Lead and Copper*
 
@@ -377,10 +377,10 @@ Please note that lead and copper do not have a maximum contaminant level. Instea
 
 Please note that "level found" in this section is the 90th percentile value from the latest monitoring event. **Of the 33 samples collected, 1 of the lead samples exceeded the action level of 15 ppb** and 0 of the copper samples exceeded the action level 1.3 ppm.
 
-| Substance |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
-|:----------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
-| Copper  </br> <sub>[2020]</sub>   | 1.3 mg/L | 1.3 mg/L | 0.045 mg/L </br> <sub>(0.001 mg/L to 0.160 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
-| Lead   </br> <sub>[2020]</sub>    |    0     | 15 ug/L  |     7.3 ug/L </br> <sub> (0.04 to 16.0 ug/L)</sub>     | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
+| Substance                       |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
+|:--------------------------------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
+| Copper  </br> <sub>[2020]</sub> | 1.3 mg/L | 1.3 mg/L | 0.045 mg/L </br> <sub>(0.001 mg/L to 0.160 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
+| Lead   </br> <sub>[2020]</sub>  |    0     | 15 ug/L  |     7.3 ug/L </br> <sub> (0.04 to 16.0 ug/L)</sub>     | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
 
 To reduce the amount of lead that can transfer from lead-bearing fixtures and pipes to the water, the NSWC feeds a corrosion inhibitor that contains phosphate. The addition of phosphate has been determined by the EPA and WNDR to be one of the best available treatment processes for controlling lead in the distribution system.
 
@@ -390,25 +390,25 @@ THIS SECTION PERTAINS TO THE FOURTH ROUND of the UCMR. These compounds are not r
 
 Please note that "level found" is the average level during the calendar year.
 
-| Substance | [^4] SMCL |        Level Found         |                   Status                    | Additional Information                                                                                                                                                                                                     |
-|:----------|:---------:|:--------------------------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Substance                              | [^4] SMCL |        Level Found         |                   Status                    | Additional Information                                                                                                                                                                                                     |
+|:---------------------------------------|:---------:|:--------------------------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Manganese </br> <sub>[2018-2019]</sub> |  50 ug/L  | 1.1 ug/L </br> (0.6 - 2.2) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
 
 For monitoring location SSS-01:
 
-| Substance |  MCLG   |   MCL   |          Level Found          |                   Status                    | Additional Information                     |
-|:----------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
-| HAA5 </br> <sub>[2018-2019]</sub>     | 60 ug/L | 60 ug/L |  8.6 ug/L </br> (5.7 - 13.5)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA6Br </br> <sub>[2018-2019]</sub>   |   NA    |   NA    |  7.1 ug/L </br>  (5.7 - 9.7)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA9 </br> <sub>[2018-2019]</sub>     |   NA    |   NA    | 14.8 ug/L </br> (11.0 - 22.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| Substance                           |  MCLG   |   MCL   |          Level Found          |                   Status                    | Additional Information                     |
+|:------------------------------------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5 </br> <sub>[2018-2019]</sub>   | 60 ug/L | 60 ug/L |  8.6 ug/L </br> (5.7 - 13.5)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br </br> <sub>[2018-2019]</sub> |   NA    |   NA    |  7.1 ug/L </br>  (5.7 - 9.7)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9 </br> <sub>[2018-2019]</sub>   |   NA    |   NA    | 14.8 ug/L </br> (11.0 - 22.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 
 For monitoring location SSS-02:
 
-| Substance |  MCLG   |   MCL   |          Level Found          |                   Status                    | Additional Information                     |
-|:----------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
-| HAA5 </br> <sub>[2018-2019]</sub>     | 60 ug/L | 60 ug/L |  8.7 ug/L </br> (6.3 - 13.5)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA6Br </br> <sub>[2018-2019]</sub>   |   NA    |   NA    |  7.6 ug/L </br> (6.4 - 9.8)   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA9  </br> <sub>[2018-2019]</sub>    |   NA    |   NA    | 15.4 ug/L </br> (11.5 - 22.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| Substance                           |  MCLG   |   MCL   |          Level Found          |                   Status                    | Additional Information                     |
+|:------------------------------------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5 </br> <sub>[2018-2019]</sub>   | 60 ug/L | 60 ug/L |  8.7 ug/L </br> (6.3 - 13.5)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br </br> <sub>[2018-2019]</sub> |   NA    |   NA    |  7.6 ug/L </br> (6.4 - 9.8)   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9  </br> <sub>[2018-2019]</sub>  |   NA    |   NA    | 15.4 ug/L </br> (11.5 - 22.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 
 The following is a complete list of compounds that were tested under this regulation:
 
@@ -419,8 +419,8 @@ The following is a complete list of compounds that were tested under this regula
 
 Unregulated contaminants are those for which EPA has not established drinking water standards. The purpose of unregulated contaminant monitoring is to assist EPA in determining the occurrence of unregulated contaminants in drinking water and whether future regulation is warranted. EPA required us to participate in this monitoring.
 
-| Substance          | MCLG | MCL | Level Found | Status                                      |
-|:-------------------|:----:|:---:|:-----------:|:--------------------------------------------|
+| Substance                           | MCLG | MCL | Level Found | Status                                      |
+|:------------------------------------|:----:|:---:|:-----------:|:--------------------------------------------|
 | Naphthalene </br> <sub>[2017]</sub> |  NA  | NA  |  0.28 ug/L  | <span style="font-size:150%">&#9786;</span> |
 
 *Uncorrected Significant Deficiencies*
